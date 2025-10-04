@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.Custom_Font {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.Custom_Button1 {
+    background-color: black;
+    color: white;
+}
+
+.Custom_Button2 {
+    background-color: yellow;
+}
